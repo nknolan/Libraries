@@ -12,7 +12,7 @@ A class module for lua. Include classic.lua
 
 ## [Enhanced Timer](https://gist.github.com/anonymous/07496ce1500fb80a9b08c77c278f017a)
 
-Supports the addition of event tags. So in this case, the event '''r_key_press''' is attached to the timer that is created whenever the r key is pressed. If the key is pressed multiple times repeatedly, the module will automatically see that this event has other timers registered to it and cancel those previous timers as a default behavior, which is what we wanted. If the tag is not used then it defaults to the normal behavior of the module. You can download this enhanced version here and swap the timer import in main.lua from libraries/hump/timer to wherever you end up placing the EnhancedTimer.lua file
+Supports the addition of event tags. So in this case, the event r_key_press is attached to the timer that is created whenever the r key is pressed. If the key is pressed multiple times repeatedly, the module will automatically see that this event has other timers registered to it and cancel those previous timers as a default behavior, which is what we wanted. If the tag is not used then it defaults to the normal behavior of the module. You can download this enhanced version here and swap the timer import in main.lua from libraries/hump/timer to wherever you end up placing the EnhancedTimer.lua file
 
 ## [Hump](https://github.com/vrld/hump)
 
