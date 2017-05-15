@@ -25,3 +25,7 @@ Has a bunch of utilities for LÖVE. Refer back to the original repo for the docs
 * class.lua: Lightweight object orientation (class or prototype based).
 * signal.lua: Simple Signal/Slot (aka. Observer) implementation.
 * camera.lua: Move-, zoom- and rotatable camera with camera locking and movement smoothing.
+
+## [Moses](https://github.com/Yonaba/Moses/)
+
+For handling tables in Lua. Again, refer to original repo for the docs.
